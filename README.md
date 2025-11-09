@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  👨‍💻 Front-End Developer | BIS Graduate | React, Bootstrap & Tailwind Enthusiast | UI/UX Designer
+  👨‍💻 Front-End Developer | BIS Graduate | React,JavaScript, Bootstrap & Tailwind Enthusiast | UI/UX Designer
 </p>
 
 ---
